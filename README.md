@@ -7,8 +7,13 @@
 <div align="center">
 
 ### Web Development
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP"></a>
-
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" alt="Django"></a>
 ### Programming Languages
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=r&theme=light" alt="R"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab&theme=light" alt="MATLAB"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino"></a>
 
