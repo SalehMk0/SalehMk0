@@ -7,7 +7,7 @@
 <div align="center">
   
 ### Data Engineering and Analysis
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebooks"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda" alt="Jupyter Notebooks"></a>
 <a href="https://simpleicons.org"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
 <a href="https://simpleicons.org"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"></a>
 <a href="https://simpleicons.org"><img src="https://img.shields.io/badge/ETL-00C7B7?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="ETL"></a>
