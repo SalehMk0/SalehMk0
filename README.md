@@ -22,7 +22,7 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" alt="Django"></a>
 ### Programming Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=r&theme=light" alt="R"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab&theme=light" alt="MATLAB"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python"></a><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino"></a>
 
 ### Database Management
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
