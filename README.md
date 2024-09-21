@@ -21,8 +21,7 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP"></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" alt="Django"></a>
-### Programming Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python"></a><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python"></a><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino"></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c&theme=light" alt="C"></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=asm&theme=light" alt="Assembly Language"></a>
 
 ### Database Management
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
