@@ -26,6 +26,7 @@
 
 ### Database Management
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"></a>
 
 ### Version Control
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
